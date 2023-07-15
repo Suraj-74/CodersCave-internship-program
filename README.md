@@ -8,5 +8,4 @@ Task 3: Mobile Price Classification using Machine Learning
                Golden Task
 Task 1: Covid-19 Analysis
 Task 2: IMDB Data Analysis
-1. app.py
-2. **app.txt**
+
